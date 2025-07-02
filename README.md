@@ -22,3 +22,5 @@ You can solve this error by purchasing api and inserting it in code manually - [
 
 # Api adding :
 New feature is added to make adding your purchased api easily.
+
+tl
